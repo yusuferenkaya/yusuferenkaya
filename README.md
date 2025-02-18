@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yusuf Eren Kaya</h1>
-<h3 align="center">Computer Engineer</h3>
+<h1 align="center"></h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuferenkaya&label=Profile%20views&color=0e75b6&style=flat" alt="yusuferenkaya" /> </p>
 
